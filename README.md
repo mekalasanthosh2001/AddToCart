@@ -3,8 +3,6 @@
 Our project aims to provide users with a seamless shopping experience by allowing them to browse through a curated selection of products, add items to their cart, and manage their purchases effortlessly. We prioritize simplicity and user-friendliness to ensure an enjoyable shopping journey.
 
 
-
-
 **home page**
 ![image](https://github.com/mekalasanthosh2001/AddToCart/assets/104013993/6b0f2c41-3834-4c44-83ea-7925641738bb)
 ![image](https://github.com/mekalasanthosh2001/AddToCart/assets/104013993/46510b1f-60f1-4ac8-b5c4-c36d0fd0fe89)
@@ -14,10 +12,6 @@ Our project aims to provide users with a seamless shopping experience by allowin
 
 **Cart List && Total Amount && Remove Product**
 ![image](https://github.com/mekalasanthosh2001/AddToCart/assets/104013993/de781286-4a1f-4521-92aa-e9939fd3d7a3)
-
-
-
-
 
 
 **Key Features:**
