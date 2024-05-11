@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.cartpage {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.cart-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cart-img img {
+  width: 50px;
+  height: 50px;
+}
+.right-cart {
+  display: flex;
+}
+.cart-boxes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-bottom: 2px solid skyblue;
+  padding-bottom: 5px;
+}
+.cart-img p {
+  font-weight: bold;
+  margin-left: 10px;
+}
+.buttonsPlus {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 4px;
+}
+.buttonsPlus button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 4px 8px;
+  font-weight: bold;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.buttonsPlus .numbers {
+  background-color: rgb(115, 255, 0);
+  outline: none;
+  border: none;
+}
+.right-cart {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.remove-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.remove-btn span {
+  color: rgb(13, 0, 0);
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.remove-btn button {
+  background-color: rgb(140, 205, 226);
+  padding: 4px 10px;
+  border: 1px solid rgb(176, 175, 175);
+  border-radius: 4px;
+  color: black;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.total span:nth-child(1) {
+  color: rgb(12, 56, 12);
+  font-size: 18px;
+  padding: 4px 0px;
+  font-weight: bold;
+}
+.total span:nth-child(2) {
+  color: rgb(12, 56, 12);
+  font-size: 20px;
+  padding: px 0px;
+  font-weight: bold;
+}

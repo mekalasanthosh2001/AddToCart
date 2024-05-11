@@ -1,0 +1,13 @@
+.warning-msg {
+  height: 30px;
+  width: 300px;
+  position: absolute;
+  right: 10px;
+  top: 10%;
+  background-color: blue;
+  color: wheat;
+  font-size: 1.1rem;
+  font-family: cursive;
+  padding: 5px;
+  border-radius: 5px;
+}
