@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AddToCart/static/css/main.ebcf805a.css",
+    "main.js": "/AddToCart/static/js/main.f83cf272.js",
+    "static/media/tourchlight.png": "/AddToCart/static/media/tourchlight.9e74073b42001300e2ee.png",
+    "static/media/handweeder.png": "/AddToCart/static/media/handweeder.2f924fdc9a127a9afbaf.png",
+    "static/media/withouthandler-hammer.png": "/AddToCart/static/media/withouthandler-hammer.67d4f801f337c57729dd.png",
+    "static/media/secutear.png": "/AddToCart/static/media/secutear.0d0692c00e74f6ade5e5.png",
+    "static/media/waterprooftape.png": "/AddToCart/static/media/waterprooftape.49f8dc796afe7a826e45.png",
+    "static/media/sikcle.png": "/AddToCart/static/media/sikcle.61f438cb39e369b40a3d.png",
+    "static/media/handle-hammer.png": "/AddToCart/static/media/handle-hammer.488f05d0e4aa76830828.png",
+    "static/media/mango-cutting-net.png": "/AddToCart/static/media/mango-cutting-net.6b5ae4a0dae3563a207a.png",
+    "static/media/single-moter-spreayer.webp": "/AddToCart/static/media/single-moter-spreayer.18ea8059e43884d55e22.webp",
+    "static/media/hecter-handweeder.jpg": "/AddToCart/static/media/hecter-handweeder.1aba1eccdafae5a37ce2.jpg",
+    "index.html": "/AddToCart/index.html",
+    "main.ebcf805a.css.map": "/AddToCart/static/css/main.ebcf805a.css.map",
+    "main.f83cf272.js.map": "/AddToCart/static/js/main.f83cf272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebcf805a.css",
+    "static/js/main.f83cf272.js"
+  ]
+}
